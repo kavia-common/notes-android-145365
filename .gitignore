@@ -36,3 +36,4 @@ tests/test_cases/local.properties
 fastlane/report.xml
 
 /gradle/verification-keyring.gpg
+.file_activity_report.json
